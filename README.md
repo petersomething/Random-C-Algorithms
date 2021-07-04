@@ -1,4 +1,4 @@
-# Random-C-Algorithms
+# Random C Algorithms
 some random c code i made while following this https://www.w3resource.com/c-programming-exercises/basic-algo/index.php
 
 # ATTENTION
